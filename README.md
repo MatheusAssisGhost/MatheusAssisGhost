@@ -4,7 +4,7 @@
 <h2><i>Desenvolvedor Front End e Publicitário</i></h2>
 
 
-- 🔭 Atualmente trabalho com Desenvolvimento Web, criando sites responsivos e de utilidade para pequenas empresas e comercios locais! Também trabalho com fotografia e filmagem, além de trabalhar como Social Media e Analista de Marketing!
+- 🔭 Atualmente trabalho com Desenvolvimento Web, criando sites responsivos e de utilidade para pequenas empresas e comercios locais! Também atuo na fotografia e filmagem, além de Social Media e Analista de Marketing!
   
 - 🌱 Estou cursando Publicidade e Propaganda EAD e realizando curso de Desenvolvimento FullStack Autodidata;
   
