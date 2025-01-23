@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente trabalho com Desenvolvimento Web, criando sites responsivos e de utilidade para pequenas empresas e comercios locais! Também atuo na fotografia e filmagem, além de Social Media e Analista de Marketing!
   
-- 🌱 Estou cursando Publicidade e Propaganda EAD e realizando curso de Desenvolvimento FullStack Autodidata;
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas e realizando curso de Desenvolvimento FullStack Online;
   
 - 📫 Contate-me no e-mail: matheus.assis.ph@gmail.com
   
